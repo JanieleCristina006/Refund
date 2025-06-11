@@ -27,5 +27,5 @@ Desenvolvido com HTML, CSS e JavaScript puro, este projeto faz parte do meu apre
 ## 🚀 Como rodar o projeto
 
 1. Clone este repositório:
-git clone https://github.com/JanieleCristina00/refund.git
+git clone https://github.com/JanieleCristina006/Refund/tree/main
 
